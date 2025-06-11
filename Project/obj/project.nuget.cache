@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uxB0lcGxPE1NV+jghMA23CWzIadKK3PIQKaX+RXB+lCRoo4oZFzBiZP857i90uC6Xw9fJVIkTpa2pU2qTsdOYg==",
+  "dgSpecHash": "n/syWjbcVzln7upTueGnUhrytU7DXrcoEIQEVePNo7Rxe9AH05lVTzPYre98//mDCJlEYFEvR1XS6Z2Qya1oHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxoo\\source\\repos\\newsol\\Project\\Project.csproj",
+  "projectFilePath": "C:\\Users\\maxoo\\Desktop\\backend\\Fullstack-Project\\Project\\Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxoo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\maxoo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -94,7 +94,17 @@ namespace Web_Project.Controllers
         [HttpGet]
         public ActionResult<WeatherDTO> WeatherEvent(int id)
         {
+            Event myEvent = _eventsServices.GetEvent(id);
+            if (myEvent == null) return NotFound();
+
+            WeatherDTO cacheWeather = _memoryCache.Get<WeatherDTO>("weather-cache");
+            string cacheLocation = _memoryCache.Get<string>("location");
+            if(cacheWeather != null && cacheLocation == myEvent.Location) return Ok(cacheWeather);
+
             WeatherDTO weather = _eventsServices.WeatherEvent(id);
+            var expTime = DateTimeOffset.Now.AddSeconds(30);
+            _memoryCache.Set("weather-cache", weather, expTime);
+            _memoryCache.Set("location", myEvent.Location, expTime);
             return Ok(weather);
         }
         /// <summary>

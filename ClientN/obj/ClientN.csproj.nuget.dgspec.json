@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\ClientN.csproj": {}
+    "C:\\Users\\maxoo\\Desktop\\backend\\Fullstack-Project\\ClientN\\ClientN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\ClientN.csproj": {
+    "C:\\Users\\maxoo\\Desktop\\backend\\Fullstack-Project\\ClientN\\ClientN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\ClientN.csproj",
+        "projectUniqueName": "C:\\Users\\maxoo\\Desktop\\backend\\Fullstack-Project\\ClientN\\ClientN.csproj",
         "projectName": "ClientN",
-        "projectPath": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\ClientN.csproj",
+        "projectPath": "C:\\Users\\maxoo\\Desktop\\backend\\Fullstack-Project\\ClientN\\ClientN.csproj",
         "packagesPath": "C:\\Users\\maxoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\obj\\",
+        "outputPath": "C:\\Users\\maxoo\\Desktop\\backend\\Fullstack-Project\\ClientN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
