@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruppin\\source\\repos\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|c:\\users\\ruppin\\source\\repos\\project\\repository\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|solutionrelative:repository\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9F5E1-57C9-4EEB-B8DF-D577A5AA78A0}|..\\Web_Project\\Web_Project.csproj|c:\\users\\ruppin\\source\\repos\\web_project\\services\\eventsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9F5E1-57C9-4EEB-B8DF-D577A5AA78A0}|..\\Web_Project\\Web_Project.csproj|c:\\users\\ruppin\\source\\repos\\web_project\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9F5E1-57C9-4EEB-B8DF-D577A5AA78A0}|..\\Web_Project\\Web_Project.csproj|c:\\users\\ruppin\\source\\repos\\web_project\\dto\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9F5E1-57C9-4EEB-B8DF-D577A5AA78A0}|..\\Web_Project\\Web_Project.csproj|c:\\users\\ruppin\\source\\repos\\web_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E9F5E1-57C9-4EEB-B8DF-D577A5AA78A0}|..\\Web_Project\\Web_Project.csproj|c:\\users\\ruppin\\source\\repos\\web_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|c:\\users\\ruppin\\source\\repos\\project\\models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|solutionrelative:models\\eventscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|c:\\users\\ruppin\\source\\repos\\project\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|c:\\users\\ruppin\\source\\repos\\project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|c:\\users\\ruppin\\source\\repos\\project\\models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C201A1-8170-4D20-8622-FB42667D0C30}|Project.csproj|solutionrelative:models\\eventuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Project\\Repository\\EventsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EventsRepository.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Project\\Repository\\EventsRepository.cs",
+              "RelativeToolTip": "Repository\\EventsRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:46:10.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsServices.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\Services\\EventsServices.cs",
+              "RelativeDocumentMoniker": "..\\Web_Project\\Services\\EventsServices.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\Services\\EventsServices.cs",
+              "RelativeToolTip": "..\\Web_Project\\Services\\EventsServices.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:04:29.535Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "..\\Web_Project\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "..\\Web_Project\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:45:43.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:08:36.839Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventUser.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\EventUser.cs",
+              "RelativeDocumentMoniker": "Models\\EventUser.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\EventUser.cs",
+              "RelativeToolTip": "Models\\EventUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:31:26.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\DTO\\WeatherDTO.cs",
+              "RelativeDocumentMoniker": "..\\Web_Project\\DTO\\WeatherDTO.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\DTO\\WeatherDTO.cs",
+              "RelativeToolTip": "..\\Web_Project\\DTO\\WeatherDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:44:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Web_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\Program.cs",
+              "RelativeToolTip": "..\\Web_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:26:59.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Web_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Web_Project\\appsettings.json",
+              "RelativeToolTip": "..\\Web_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T08:26:57.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\EventsContext.cs",
+              "RelativeDocumentMoniker": "Models\\EventsContext.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\EventsContext.cs",
+              "RelativeToolTip": "Models\\EventsContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:16:02.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ruppin\\source\\repos\\Project\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:41:11.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

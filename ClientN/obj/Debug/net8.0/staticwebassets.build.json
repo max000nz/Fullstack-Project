@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Wjboh9y8mTBrpsOR66Zdf8WcK7RuUsOja7Mwu42gxzw=",
+  "Source": "ClientN",
+  "BasePath": "_content/ClientN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClientN\\wwwroot",
+      "Source": "ClientN",
+      "ContentRoot": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\wwwroot\\",
+      "BasePath": "_content/ClientN",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\wwwroot\\index.html",
+      "SourceId": "ClientN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\wwwroot\\",
+      "BasePath": "_content/ClientN",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\wwwroot\\script.js",
+      "SourceId": "ClientN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\wwwroot\\",
+      "BasePath": "_content/ClientN",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\wwwroot\\style.css",
+      "SourceId": "ClientN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maxoo\\source\\repos\\newsol\\ClientN\\wwwroot\\",
+      "BasePath": "_content/ClientN",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

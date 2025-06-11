@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web_Project</name>
+    </assembly>
+    <members>
+        <member name="M:Web_Project.Controllers.EventsController.CreateEvent(Project.Models.Event)">
+            <summary>
+            Create Event
+            </summary>
+        </member>
+        <member name="M:Web_Project.Controllers.EventsController.GetEventUsers(System.Int32)">
+            <summary>
+            Get all users of event
+            </summary>
+        </member>
+        <member name="M:Web_Project.Controllers.EventsController.Registration(System.Int32,Project.Models.User)">
+            <summary>
+            Registration new user to event
+            </summary>
+        </member>
+        <member name="M:Web_Project.Controllers.EventsController.GetEvent(System.Int32)">
+            <summary>
+            Get Event
+            </summary>
+        </member>
+        <member name="M:Web_Project.Controllers.EventsController.UpdateEvent(System.Int32,Project.Models.Event)">
+            <summary>
+            Update Event
+            </summary>
+        </member>
+        <member name="M:Web_Project.Controllers.EventsController.DeleteEvent(System.Int32)">
+            <summary>
+            Delete Event
+            </summary>
+        </member>
+        <member name="M:Web_Project.Controllers.EventsController.WeatherEvent(System.Int32)">
+            <summary>
+            Weather
+            </summary>
+        </member>
+        <member name="M:Web_Project.Controllers.EventsController.GetEventsBetweenDates(System.DateTime,System.DateTime)">
+            <summary>
+            Shcedule
+            </summary>
+        </member>
+    </members>
+</doc>
